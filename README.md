@@ -1,5 +1,4 @@
 # Snack Expo (MERN)
 
 FrontEnd :
-https://snack.expo.dev/@alriawi/6?platform=web
- 
+https://snack.expo.dev/@andi739/andi-setiawan-213510241-5a-uas-prak-dpm
